@@ -1,4 +1,4 @@
-name: Pipeline do CP-01
+name: Terraform Pipeline
 
 on:
   push:
